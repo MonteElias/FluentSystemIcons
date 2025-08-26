@@ -2,7 +2,10 @@
 # FluentSystemIcons.WinUI
 ![alt text](https://img.shields.io/nuget/v/FluentSystemIcons.WinUI.svg)  
 
-![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)
+![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)  
+
+![img](https://i.imgur.com/B2tdQkn.png)
+
 Una biblioteca simple y ligera para usar fácilmente el conjunto completo de Iconos del Sistema Fluent de Microsoft en tus aplicaciones de WinUI 3. Proporciona todos los estilos de iconos (Regular y Filled) y los expone a través de clases de C# fuertemente tipadas para una experiencia de desarrollo fluida con IntelliSense y enlaces compilados ({x:Bind}).
 Olvídate de buscar códigos Unicode. Empieza a usar nombres semánticos para tus iconos.
 
